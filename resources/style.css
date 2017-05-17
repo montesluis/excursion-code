@@ -1,0 +1,33 @@
+#top {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  }
+#cr {
+  text-align: right;
+  color: gray;
+}
+.dea {
+  color: Aquamarine;
+  text-align: center;
+}
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+p {
+  font-family: Verdana;
+  font-size: 27px;
+  color: gray;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+}
